@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+h1{
+    font-family: 'Ranchers', cursive;
+    text-align: center;
+    letter-spacing: 4px;
+}
+p{
+    font-family: 'Ranchers', cursive;
+    font-size: 22px;
+}
+#afficher, #cacher, #color{
+    font-family: 'Ranchers', cursive;
+    margin-left: 20px;
+    background-color: #a1cbae;
+    color: black;
+    padding: 12px;
+    border-radius: 20px;
+}
